@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello everyone!
+=======
+Hello Ana-Maria!!
+>>>>>>> 28f7bd4e963e8ad11c2778c04d15b89956bd0e15
